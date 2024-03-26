@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img width="540" alt="ryan gosling" src="./ryangosling.gif"/>](https://2.bp.blogspot.com/-2oZ4W7jlMIY/W1RrZgXBZgI/AAAAAAAAVjk/bDC3_QsuUtEDNaTAkiVq_aeSJ02WMfGfQCLcBGAs/s1600/svensex%2Bfiskelig.jpg "Big Sven")
+[<img width="1024" alt="ryan gosling" src="./ryangosling.gif"/>](https://2.bp.blogspot.com/-2oZ4W7jlMIY/W1RrZgXBZgI/AAAAAAAAVjk/bDC3_QsuUtEDNaTAkiVq_aeSJ02WMfGfQCLcBGAs/s1600/svensex%2Bfiskelig.jpg "Big Sven")
 
 </div>
 
