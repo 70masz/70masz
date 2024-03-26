@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img width="540" alt="ryan gosling" src="![\[https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61](https://i.pinimg.com/originals/a7/ed/2c/a7ed2c25174a10a049596cf0c6066fb6.gif)]/">]
+[<img width="540" alt="ryan gosling" src="https://i.pinimg.com/originals/a7/ed/2c/a7ed2c25174a10a049596cf0c6066fb6.gif">]
 
 </div>
 
